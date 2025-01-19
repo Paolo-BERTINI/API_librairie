@@ -8,7 +8,7 @@ Le projet est composé de plusieurs dossiers:
 * Le dossier `config` sert à configurer la connection entre le code et la base de donnée *MariaDB*.
 * Le dossier `controllers` sert à stocker les fonctions permettant le fonctionnement de l'API.
 
-
+gfxn
 ## 2. ___Comment faire fonctionner le code ?___
 
 Pour éxécuter le code, lancer le fichier main (`go run main.go`). Ensuite se connecter aux routes souhaitées.
