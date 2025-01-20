@@ -1,8 +1,0 @@
-write, 11 books, 0N authors
-books: id, title, author, stock, publication_date, price, summary
-order, 01 books, 11 purchase
-purchase: id, user, quantity, total_price, payment_timestamp, book
-
-authors: id, name, birth_date, description
-users: id, first_name, last_name, mail, password
-carry out, 0N users, 1N purchase
