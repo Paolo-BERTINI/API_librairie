@@ -1,0 +1,31 @@
+{
+  "width": 472,
+  "height": 313,
+  "cx": [
+    [ "WRITE", 48 ],
+    [ "BOOKS", 159 ],
+    [ "ORDER", 271 ],
+    [ "PURCHASE", 395 ],
+    [ "AUTHORS", 48 ],
+    [ "USERS", 159 ],
+    [ "CARRY_OUT", 271 ]
+  ],
+  "cy": [
+    [ "WRITE", 85 ],
+    [ "BOOKS", 85 ],
+    [ "ORDER", 85 ],
+    [ "PURCHASE", 85 ],
+    [ "AUTHORS", 245 ],
+    [ "USERS", 245 ],
+    [ "CARRY_OUT", 245 ]
+  ],
+  "shift": [
+    [ "WRITE,BOOKS,0", 0 ],
+    [ "WRITE,AUTHORS,0", 0 ],
+    [ "ORDER,BOOKS,0", 0 ],
+    [ "ORDER,PURCHASE,0", 0 ],
+    [ "CARRY_OUT,USERS,0", 0 ],
+    [ "CARRY_OUT,PURCHASE,0", 0 ]
+  ],
+  "ratio": []
+}
